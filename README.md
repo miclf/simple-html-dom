@@ -1,7 +1,7 @@
 simple-html-dom
 ===============
 
-A copy of the [PHP Simple HTML DOM Parser project](http://simplehtmldom.sourceforge.net/) usable as a Composer package.
+A copy of the [PHP Simple HTML DOM Parser project](http://simplehtmldom.sourceforge.net/) usable as a [Composer](http://getcomposer.org/) package.
 
 ## Installation
 
@@ -36,7 +36,7 @@ Finally, since Simple HTML DOM isn’t PSR-0 compliant, you need to add the foll
 
 Do a `composer validate`, just to be sure that your file is still valid.
 
-And voilà, you’ready to `composer update`.
+And voilà, you’re ready to `composer update`.
 
 ## Usage
 
