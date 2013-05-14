@@ -1,0 +1,11 @@
+{
+    "name": "youpie/simple-html-dom",
+    "description": "A copy of the PHP Simple HTML DOM Parser project.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "S.C. Chen",
+            "email": "me578022@gmail.com"
+        }
+    ]
+}
