@@ -7,7 +7,7 @@
             "name": "S.C. Chen",
             "email": "me578022@gmail.com"
         }
-    ]
+    ],
     "autoload": {
         "classmap": [
             "simple-html-dom.php"
