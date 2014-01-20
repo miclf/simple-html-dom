@@ -8,4 +8,9 @@
             "email": "me578022@gmail.com"
         }
     ]
+    "autoload": {
+        "classmap": [
+            "simple-html-dom.php"
+        ]
+    }
 }
