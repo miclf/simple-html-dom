@@ -1,3 +1,6 @@
+**Note: I don’t intend to maintain this package. [Other copies](https://packagist.org/search/?q=simple-html-dom) of Simple HTML DOM are already available on Packagist, are easier to install and don’t clutter your `composer.json`
+file.**
+
 simple-html-dom
 ===============
 
@@ -21,16 +24,6 @@ Then, require this package in the same way as any other package:
 ```json
 "require": {
     "simple-html-dom/simple-html-dom": "*"
-}
-```
-
-Finally, since Simple HTML DOM isn’t PSR-0 compliant, you need to add the following if you want to autoload it via Composer:
-
-```json
-"autoload": {
-    "classmap": [
-        "vendor/simple-html-dom/simple-html-dom/"
-    ]
 }
 ```
 
